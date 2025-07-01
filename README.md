@@ -98,5 +98,4 @@ Este projeto é **educacional**, com foco na **compreensão da lógica de valida
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome]  
-[https://github.com/seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por Rafael Maranduba  
